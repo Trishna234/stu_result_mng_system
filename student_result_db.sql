@@ -1,0 +1,2 @@
+create database stu_result_mng_system;
+use stu_result_mng_system;
